@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Subscribe to Category v1.2.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-10-07 18:36+0100\n"
+"PO-Revision-Date: 2015-10-08 14:52+0100\n"
 "Last-Translator: fab <fabrice@imango.fr>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -77,7 +77,7 @@ msgstr "Sujet du courriel :"
 # @ stc_textdomain
 #: classes/class-settings.php:215
 msgid "Resend post on update"
-msgstr "Renvoyer l'article à sa mise à jour"
+msgstr "Renvoyer l'article lors de sa mise à jour"
 
 # @ stc_textdomain
 #: classes/class-settings.php:222
@@ -107,7 +107,7 @@ msgstr "Abonnés :"
 # @ stc_textdomain
 #: classes/class-settings.php:280
 msgid "The plugin will remove all data in database created by this plugin but there is an option regarding subscribers"
-msgstr "Ce plugin supprimera toutes les données dans la base de données crées par ce plugin mais il existe une option concernant les abonnés"
+msgstr "Le plugin supprimera toutes les données dans la base de données crées par ce plugin mais il existe une option concernant les abonnés"
 
 # @ stc_textdomain
 #: classes/class-settings.php:301
@@ -148,7 +148,7 @@ msgstr "Ignorer la CSS personnalisée"
 # @ stc_textdomain
 #: classes/class-settings.php:395
 msgid "Check this option if your theme supports Bootstrap framework or if you want to place your own CSS for Subscribe to Category in your theme."
-msgstr "Cliquez cette option si votre thème supporte le framework Bootstrap ou si vous désirez insérer votre propre CSS pour Subscribe to Category dans votre thème."
+msgstr "Cochez cette option si votre thème supporte le framework Bootstrap ou si vous désirez insérer votre propre CSS pour Subscribe to Category dans votre thème."
 
 # @ stc_textdomain
 #: classes/class-settings.php:413
@@ -204,7 +204,7 @@ msgstr "Si vous désirez vous désabonner, cliquez sur le lien désabonnement si
 # @ default
 #: classes/class-subscribe.php:217
 msgid "We are sorry but something went wrong with your unsubscription."
-msgstr ""
+msgstr "Désolé, une erreur s'est produite lors de votre désinscription."
 
 # @ stc_textdomain
 #: classes/class-subscribe.php:225
